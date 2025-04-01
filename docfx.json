@@ -19,6 +19,11 @@
       "_appTitle": "ei8",
       "_enableSearch": true,
       "pdf": true
+    },
+    "sitemap": {
+      "baseUrl": "https://dkroderos.github.io/avatar-docs",
+      "priority": 0.5,
+      "changefreq": "daily"
     }
   }
 }
