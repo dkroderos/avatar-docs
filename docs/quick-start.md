@@ -31,11 +31,11 @@ Before proceeding, enable file extensions to ensure correct file handling:
 1. Open the `Settings` app on Windows.
 2. Search for `Show file extensions` in the file explorer and click on the first entry on the dropdown.
 
-<img src="../images/search-for-show-file-extensions.png" alt="Search for Show File Extensions" style="display: block; margin: auto; width: 50%; max-width:100%;">
+<img src="/images/search-for-show-file-extensions.png" alt="Search for Show File Extensions" style="display: block; margin: auto; width: 50%; max-width:100%;">
 
 3. Turn on the `Show file extensions` setting as shown.
 
-<img src="../images/turn-on-show-file-extensions.png" alt="Turn on Show File Extensions" style="display: block; margin: auto; max-width:100%;">
+<img src="/images/turn-on-show-file-extensions.png" alt="Turn on Show File Extensions" style="display: block; margin: auto; max-width:100%;">
 
 <br>
 
@@ -102,7 +102,7 @@ Before proceeding, enable file extensions to ensure correct file handling:
    - Make sure to select `All Files` in the `Save as type` dropdown
    - Ensure the filename ends with `.json` and not `.txt`
 
-<img src="../images/save-sample-config.png" alt="Save sample config" style="display: block; margin: auto; max-width:100%;">
+<img src="/images/save-sample-config.png" alt="Save sample config" style="display: block; margin: auto; max-width:100%;">
 
 <br>
 
@@ -112,7 +112,7 @@ Before proceeding, enable file extensions to ensure correct file handling:
 2. On the home page, click on `New` and choose a configuration file.
 3. Inside the `New` page, click on `Choose File`. Choose the downloaded `ei8_sample_config.json` and click open.
 
-<img src="../images/choose-sample-config.png" alt="Choose sample config" style="display: block; margin: auto; max-width:100%;">
+<img src="/images/choose-sample-config.png" alt="Choose sample config" style="display: block; margin: auto; max-width:100%;">
 
 4. After choosing a configuration file, click `Create` and wait for it to finish.
 5. Once completed, you can now run your very own **Avatar Server**. Your saved files are in `Documents/ei8/Avatar`.
